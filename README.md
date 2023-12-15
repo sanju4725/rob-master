@@ -8,7 +8,7 @@
   set speeds(0,0,0,0)
 
 3)def turn:
-  set rotation with degrees (45degree)
+  set rotation with degrees (adegree)
 
 4)def forward:
   sets speed as same for all to go into the direction
