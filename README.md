@@ -53,7 +53,7 @@ set behaviour:
     set led on all 4 sides to flash if you find people
     set led only on the side that was hit if collision is detected
     
-set behaviour:  
+set behaviour:
   12)lasers:
     set the laser on then spin the gimbal 
     so it puts up a show
