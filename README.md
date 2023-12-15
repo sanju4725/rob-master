@@ -64,7 +64,7 @@ check conditions:
     if timer hits a certain limit simply accept defeat and o the spin with the leds flashing on all 4 skip_doctest
 
 
-https://github.com/sanju4725/rob-master/blob/main/BR_AS21AGI-Page-6.png?raw=true![image](https://github.com/sanju4725/rob-master/assets/92858165/7d8676e6-7d3c-419a-a851-74ff8c439bd0)
+https://github.com/sanju4725/rob-master/assets/92858165/7d8676e6-7d3c-419a-a851-74ff8c439bd0
 
 
   
